@@ -1,47 +1,4 @@
-    <body>
-    
-    <!-- ***** Preloader Start ***** -->
-    <div id="js-preloader" class="js-preloader">
-      <div class="preloader-inner">
-        <span class="dot"></span>
-        <div class="dots">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-      </div>
-    </div>
-    <!-- ***** Preloader End ***** -->
-    
-    
-    <!-- ***** Header Area Start ***** -->
-    <header class="header-area header-sticky">
-        <div class="container">
-            <div class="row" >
-                <div class="col-12">
-                    <nav class="main-nav">
-                        <!-- ***** Logo Start ***** -->
-                        <a href="index.html" class="logo"> <em> LEAGUE OF FITNESS </em></a>
-                        <!-- ***** Logo End ***** -->
-                        <!-- ***** Menu Start ***** -->
-                        <ul class="nav">
-                            <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="#features">About</a></li>
-                            <li class="scroll-to-section"><a href="#our-classes">Programs</a></li>
-                            <!-- <li class="scroll-to-section"><a href="#schedule">Schedules</a></li> -->
-                            <li class="scroll-to-section"><a href="#contact-us">Contact Us</a></li> 
-                            <li class="main-button"><a href="#">Sign Up</a></li>
-                        </ul>        
-                        <a class='menu-trigger'>
-                            <span>Menu</span>
-                        </a>
-                        <!-- ***** Menu End ***** -->
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- ***** Header Area End ***** -->
+
 
     <!-- ***** Main Banner Area Start ***** -->
     <div class="main-banner" id="top">
@@ -243,7 +200,7 @@
                   <li><a href='#tabs-2'><img src="assets/images/tabs-first-icon.png" alt="">Yoga</a></a></li>
                   <li><a href='#tabs-3'><img src="assets/images/tabs-first-icon.png" alt="">HIIT</a></a></li>
                   <li><a href='#tabs-4'><img src="assets/images/tabs-first-icon.png" alt="">Aerobic Excercises</a></a></li>
-                  <div class="main-rounded-button"><a href="#">View All Schedules</a></div>
+                  <!-- <div class="main-rounded-button"><a href="#">View All Schedules</a></div> -->
                 </ul>
               </div>
               <div class="col-lg-8">
@@ -252,7 +209,7 @@
                     <img src="assets/images/training-image-01.jpg" alt="First Class">
                     <h4>Strength Training</h4>
                     <p>Unleash your potential with our Strength Training sessions designed to build muscle, increase endurance, and enhance overall fitness. Our expert trainers will guide you through a variety of exercises tailored to your individual goals, whether you're a beginner or an experienced lifter. Join us to improve your strength, boost your confidence, and transform your body in a supportive and motivating environment! This content emphasizes the benefits of strength training while highlighting the support and guidance available to participants.</p> <div class="main-button">
-                        <a href="#">View Schedule</a>
+                        <!-- <a href="#">View Schedule</a> -->
                     </div>
                   </article>
                   <article id='tabs-2'>
@@ -260,7 +217,7 @@
                     <h4>Yoga </h4>
                     <p>Discover the transformative power of yoga at the League of Fitness, where we offer classes designed to enhance flexibility, strength, and mental clarity. Our experienced instructors guide you through various styles, from calming Hatha to invigorating Vinyasa, ensuring a practice that suits all levels. Join us to cultivate mindfulness, relieve stress, and connect with a supportive community dedicated to holistic well-being. This content highlights the benefits of yoga while inviting potential members to participate in your classes. </p>
                         <div class="main-button">
-                        <a href="#">View Schedule</a>
+                        <!-- <a href="#">View Schedule</a> -->
                     </div>
                   </article>
                   <article id='tabs-3'>
@@ -269,18 +226,18 @@
                     <p>
 Maximize your workout with our HIIT classes that combine short bursts of intense exercise with periods of rest or lower-intensity exercise. Led by our expert trainers, these fast-paced sessions will push you to your limits, helping you burn calories, build strength, and improve cardiovascular fitness in a fraction of the time. Get ready to sweat, challenge yourself, and see results with our dynamic HIIT workouts!
 This content highlights the key benefits of HIIT, such as time efficiency, calorie burn, strength building, and cardiovascular health improvements. It also emphasizes the guidance provided by expert trainers to ensure participants get the most out of these challenging yet rewarding workouts.</p>
-                    <div class="main-button">
+                    <!-- <div class="main-button">
                         <a href="#">View Schedule</a>
-                    </div>
+                    </div> -->
                   </article>
                   <article id='tabs-4'>
                     <img src="assets/images/training-image-04.jpg" alt="Fourth Training">
                     <h4>Aerobic Exercises
                     </h4>
                    <p>Boost your cardiovascular health and endurance with our invigorating aerobic exercise classes! Designed for all fitness levels, these sessions incorporate a variety of activities such as dance, cycling, and step aerobics to keep your heart pumping and your spirits high. Join us to experience the benefits of improved stamina, increased energy levels, and a fun, supportive environment that makes working out enjoyable! This content highlights the benefits of aerobic exercises while inviting potential members to participate in your classes.</p>
-                    <div class="main-button">
+                    <!-- <div class="main-button">
                         <a href="#">View Schedule</a>
-                    </div>
+                    </div> -->
                   </article>
                 </section>
               </div>

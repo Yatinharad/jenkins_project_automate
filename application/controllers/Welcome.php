@@ -26,4 +26,18 @@ class Welcome extends CI_Controller {
 		$this->load->view('user/welcome');
 		$this->load->view('user/footer');
 	}
+	
+	public function aboutus(){
+		$this->load->helper('url');
+		$this->load->view('user/header');
+		$this->load->view('user/about');
+		$this->load->view('user/footer');
+	}
+
+	public function login(){
+		$this->load->helper('url');
+		$this->load->view('user/header');
+		$this->load->view('user/about');
+		$this->load->view('user/footer');
+	}
 }
