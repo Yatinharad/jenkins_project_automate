@@ -65,8 +65,9 @@ https://templatemo.com/tm-548-training-studio
                             <li class="scroll-to-section"><a href="welcome/aboutus">About</a></li>
                             <li class="scroll-to-section"><a href="#our-classes">Programs</a></li>
                             <!-- <li class="scroll-to-section"><a href="#schedule">Schedules</a></li> -->
-                            <li class="scroll-to-section"><a href="#contact-us">Contact Us</a></li> 
-                            <li class="main-button"><a href="#">Sign Up</a></li>
+                            <li class="scroll-to-section"><a href="#contact-us">Contact Us</a></li>
+                            <li class="scroll-to-section"><a href="blog">Blogs</a></li> 
+                            <li class="main-button"><a href="welcome/login">Login / Sign Up</a></li>
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>

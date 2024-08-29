@@ -28,8 +28,11 @@
 <script src="assets/js/mixitup.js"></script> 
 <script src="assets/js/accordions.js"></script>
 
+
 <!-- Global Init -->
 <script src="assets/js/custom.js"></script>
+<script src="assets/js/global.js"></script>
+<script src="assets/js/ajax.js"></script>
 
 </body>
 </html>
