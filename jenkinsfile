@@ -19,6 +19,6 @@ pipeline {
                 sh 'docker run --name my_php -d -p 80:80 myphp '
                 
             }
-        }
-    }
+         }
+     }
 }
